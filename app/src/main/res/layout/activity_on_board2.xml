@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/onboard1"
+    tools:context=".OnBoard2"
     android:onClick="onClick"
-    tools:context=".OnBoard1">
+    android:background="@drawable/onboard2">
 
 </androidx.constraintlayout.widget.ConstraintLayout>
