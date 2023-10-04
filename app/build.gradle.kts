@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.popov"
+    namespace = "com.example.Bespalov"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.popov"
+        applicationId = "com.example.Bespalov"
         minSdk = 28
         targetSdk = 33
         versionCode = 1
